@@ -50,49 +50,53 @@ I’ve delivered platforms across **healthcare, real estate, HRMS, telemedicine,
 ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
 
 ---
-
-# ⭐ Highlighted Projects (Showcase Cards)
+## Highlighted Projects (Showcase Cards)
 
 ### 🏥 SunLife / Pillway – Healthcare Automation  
-![SunLife](https://github-readme-stats.vercel.app/api/pin/?username=Deepsharma001&repo=Django-boiler-plate&theme=radical)
+A HIPAA-compliant medicine delivery and prescription automation ecosystem.  
+**Key Features:**  
+- Prescription scheduling & automated delivery  
+- Secure patient medical records  
+- Pharmacy management with role-based access  
+- Redis caching for fast lookups  
+- AWS-based deployment with CI/CD  
+
+
+---
 
 ### 🏡 Estate – Real Estate Search Engine  
+A high-scale property intelligence system capable of handling millions of listings.  
 **Tech:** Django, ElasticSearch, Redis, AWS  
-✔ Large dataset handling  
-✔ High-concurrency architecture  
-✔ ElasticSearch indexing  
+**Highlights:**  
+✔ Large dataset ingestion & high-speed search  
+✔ High-concurrency system architecture  
+✔ ElasticSearch-based full-text & geo indexing  
+✔ Celery background sync for continuous data updates  
+
+
+---
 
 ### 💬 FWD – AI-Based Matchmaking Platform  
+A communication & matchmaking platform with AI-driven verification and scoring.  
 **Tech:** Django, DRF, JWT, Celery  
-✔ AI-based profile verification  
-✔ Real-time scoring  
-✔ Async queues  
+**Highlights:**  
+✔ AI-driven profile verification  
+✔ Real-time matching & score computation  
+✔ Secure JWT-based authentication  
+✔ Async workflows for notifications & file processing  
+
+
+---
 
 ### 🩺 CancerLight – Telemedicine  
+A real-time patient–doctor communication and scheduling platform.  
 **Tech:** Django, React, Google Calendar API  
-✔ Real-time communication  
-✔ Scheduling sync  
-✔ HIPAA-aligned workflows  
+**Highlights:**  
+✔ Live video/audio consultation  
+✔ 2-way synchronized scheduling  
+✔ HIPAA-aligned medical workflows  
+✔ Patient communities & care coordination  
 
----
-
-# 📊 GitHub Stats  
-
-### 🔥 GitHub Profile Stats  
-![Deepak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deepsharma001&show_icons=true&theme=radical)
-
-### 🔥 Most Used Languages  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deepsharma001&layout=compact&theme=radical)
-
-### 🔥 Contribution Streak  
-![GitHub Streak](https://streak-stats.demolab.com/?user=Deepsharma001&theme=radical)
-
----
-
-# 🎞 Animated Banner  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/banners/banner-5.png" width="100%">
-</p>
 
 ---
 
