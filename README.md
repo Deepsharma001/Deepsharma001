@@ -1,6 +1,3 @@
-Great — now I’ll produce a **detailed GitHub Profile README** while keeping **exact same format**:
-
-```
 ## Hi there 👋
 
 <!--
@@ -84,13 +81,3 @@ Video processing, WebRTC live coaching, performance analytics.
 - Mentored teams to independently deliver complex modules  
 - Delivered scalable enterprise systems with automation-first mindset  
 
----
-
-If you want, I can also add:  
-🔥 GitHub stats section  
-🔥 Tech badges  
-🔥 Projects showcase cards  
-🔥 Animated banners  
-
-Just say **“Add GitHub stats & badges”**.
-```
