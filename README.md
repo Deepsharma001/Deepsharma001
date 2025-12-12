@@ -2,82 +2,101 @@
 
 <!--
 **Deepsharma001/Deepsharma001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on **AI-driven automation platforms, scalable backend systems, and cloud-native architectures.**  
-- 🌱 I’m currently learning **Advanced LLM pipelines, vector databases, LangChain agents, distributed systems, and system scalability patterns.**  
-- 👯 I’m looking to collaborate on **GenAI SaaS products, enterprise backend systems, microservice architectures, and high-performance APIs.**  
-- 🤔 I’m looking for help with **building large-scale multi-tenant platforms, AI workflow optimization, and complex data engineering pipelines.**  
-- 💬 Ask me about **Python, Django, DRF, FastAPI, AI/LLMs, microservices, event-driven architecture, AWS, Docker, Redis, RabbitMQ, CI/CD, and data pipelines.**  
+- 🔭 I’m currently working on **AI-driven automation platforms, scalable backend systems & cloud-native architectures.**  
+- 🌱 I’m currently learning **LLMs, vector databases, LangChain agents, system design & distributed systems.**  
+- 👯 I’m looking to collaborate on **GenAI SaaS applications, microservices-based platforms, and enterprise backend systems.**  
+- 🤔 I’m looking for help with **high-scale multi-tenant systems, AI workflow optimization, and complex ETL pipelines.**  
+- 💬 Ask me about **Python, Django, DRF, FastAPI, GenAI/LLMs, microservices, AWS, Docker, Redis, CI/CD, and system architecture.**  
 - 📫 How to reach me: **sharmadeep5212@gmail.com**  
 - 😄 Pronouns: **He/Him**  
-- ⚡ Fun fact: **I turn complex system problems into scalable architectures—and automate anything I can 😊**  
+- ⚡ Fun fact: **I love converting complex logic into clean & scalable architectures 🚀**  
+
 
 ---
 
-### 🧠 About Me  
-I’m **Deepak Sharma**, a **Senior Software Engineer / Tech Lead** with 7+ years of experience in AI, backend engineering, microservices, and enterprise platform development. I specialize in **GenAI integrations, high-availability backend systems, ETL workflows, event-driven patterns, and cloud-native deployments**. I’ve delivered scalable solutions across **healthcare, real estate, HRMS, telemedicine, communication platforms, and automation-based products**.
+# 🧠 About Me  
+I’m **Deepak Sharma**, a **Senior Software Engineer / Tech Lead** with 7+ years of experience building high-performance backend systems, scalable architectures, microservices, GenAI workflows, and enterprise-grade applications.
+
+I’ve delivered platforms across **healthcare, real estate, HRMS, telemedicine, communication systems, and AI-based automation products**.
 
 ---
 
-### 🛠 Technical Skillset  
+# 🛠 Tech Stack & Badges  
 
-- **Languages:** Python, JavaScript, PHP, TypeScript  
-- **Frameworks:** Django, DRF, FastAPI, Flask, Celery, LangChain  
-- **Frontend:** React (Basic)  
-- **Architecture:** Microservices, Serverless, Event-driven design, Multi-tenant systems  
-- **AI Tools:** OpenAI APIs, LangChain, Redis vector search  
-- **Databases:** PostgreSQL, MySQL, MongoDB, Redis, Indexing, Partitioning  
-- **Cloud & DevOps:** AWS EC2/S3/RDS/Lambda, Docker, CI/CD, Nginx  
-- **Queues:** Redis, RabbitMQ, Celery task queues  
-- **Analytics Tools:** PowerBI, Apache Spark  
-- **Integrations:** Stripe, Razorpay, PayPal, Paytm  
-- **Tools:** GitHub, GitLab, Jira, Trello, ClickUp  
+### 🔹 Languages & Backend  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
 
----
+### 🔹 AI / GenAI  
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logoColor=white)
+![Vector DB](https://img.shields.io/badge/Vector%20Databases-FF6F61)
 
-### 🏆 Work & Leadership  
+### 🔹 DevOps & Cloud  
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)
 
-- Leading project architecture, sprint planning, and delivery execution  
-- Managing backend teams & mentoring junior developers  
-- Designing secure API layers (JWT/OAuth2, RBAC, rate-limiting, API versioning)  
-- Building ETL systems, AI-driven scoring modules, and real-time communication platforms  
-- Ensuring deployment reliability using Docker, CI/CD, AWS automation  
-- Optimizing databases with indexing, caching, and horizontal scaling  
-
----
-
-### ⭐ Key Projects  
-
-#### 🏥 **SunLife / Pillway – Healthcare & Prescription Delivery Platform**  
-HIPAA-compliant system for prescriptions, automation, delivery, medical workflows.  
-**Tech:** Django, DRF, PostgreSQL, AWS, Redis, Docker  
-
-#### 🏡 **Estate – High-Scale Real Estate Search Engine**  
-Millions of listings, ElasticSearch full-text search, geo-filtering, concurrency.  
-**Tech:** Django, ElasticSearch, Redis, Celery, AWS  
-
-#### 💬 **FWD – AI-Based Matchmaking Platform**  
-Secure communication, AI-based verification, match scoring, async workflows.  
-**Tech:** Django, DRF, Celery, JWT, AWS Lambda  
-
-#### 🩺 **CancerLight – Telemedicine Platform**  
-Real-time audio/video, scheduling, patient–doctor workflows, HIPAA-aligned.  
-**Tech:** Django, React, Celery, Google Calendar API  
-
-#### ⚽ **Athleta Media – Sports Coaching & Real-Time Media Analysis**  
-Video processing, WebRTC live coaching, performance analytics.  
-**Tech:** Django, MySQL, AWS S3, Celery, Jitsi  
+### 🔹 Databases  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
 
 ---
 
-### 🥇 Achievements  
+# ⭐ Highlighted Projects (Showcase Cards)
 
-- Reduced API latency with optimized DB indexing & Redis caching  
-- Built fully-compliant medical systems with secure access control  
-- Improved release predictability through structured sprint cycles  
-- Mentored teams to independently deliver complex modules  
-- Delivered scalable enterprise systems with automation-first mindset  
+### 🏥 SunLife / Pillway – Healthcare Automation  
+![SunLife](https://github-readme-stats.vercel.app/api/pin/?username=Deepsharma001&repo=Django-boiler-plate&theme=radical)
 
+### 🏡 Estate – Real Estate Search Engine  
+**Tech:** Django, ElasticSearch, Redis, AWS  
+✔ Large dataset handling  
+✔ High-concurrency architecture  
+✔ ElasticSearch indexing  
+
+### 💬 FWD – AI-Based Matchmaking Platform  
+**Tech:** Django, DRF, JWT, Celery  
+✔ AI-based profile verification  
+✔ Real-time scoring  
+✔ Async queues  
+
+### 🩺 CancerLight – Telemedicine  
+**Tech:** Django, React, Google Calendar API  
+✔ Real-time communication  
+✔ Scheduling sync  
+✔ HIPAA-aligned workflows  
+
+---
+
+# 📊 GitHub Stats  
+
+### 🔥 GitHub Profile Stats  
+![Deepak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deepsharma001&show_icons=true&theme=radical)
+
+### 🔥 Most Used Languages  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deepsharma001&layout=compact&theme=radical)
+
+### 🔥 Contribution Streak  
+![GitHub Streak](https://streak-stats.demolab.com/?user=Deepsharma001&theme=radical)
+
+---
+
+# 🎞 Animated Banner  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/banners/banner-5.png" width="100%">
+</p>
+
+---
+
+# 🚀 Let's Build Something Awesome  
+Feel free to reach out!  
+📧 **sharmadeep5212@gmail.com**  
+🔗 **LinkedIn:** https://www.linkedin.com/in/deepak-sharma-455161k/  
